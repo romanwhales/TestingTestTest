@@ -1,0 +1,18 @@
+{
+  "name": "testingtesttest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Testung",
+    "test"
+  ],
+  "author": "Sunmonu-Adedeji Olawale",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
